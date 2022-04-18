@@ -6,7 +6,7 @@ A tool to translate Speech (native code supports Hindi, but can be changed for w
 * Text Processing using NLP.
 * Front-End using EasyGUI.
 * Visual Feedback with the help of Tkinter and Matplotlib modules.
-* Not only can this application translate Hindi language into ISL, but it also can translate any language (identified by the Google Speech to Text API) into ISL with a slight change in code. Refer the code for more info on how to do this.
+* Not only can this application translate Hindi language into ISL, but it can also translate any language (identified by the Google Speech to Text API) into ISL with a slight change in code. Refer the code for more info on how to do this.
 
 # How to run the Application
 
