@@ -9,7 +9,7 @@ A tool to translate Speech (native code supports Hindi, but can be changed for w
 
 # How to run the Application
 
-1. Clone this repository and then open terminal in the Master directory.
+1. Clone this repository and then open terminal in the cloned folder.
 2. The required libraries have been listed in the Requirements.txt. Write the following command in order to install the necessary packages: `pip install -r Requirements.txt`. All the required packages will have been installed and you will be good to go.
 3. Now run the `Speech_Recognition_Hindi.py` file by writing the following command in the terminal: `python Speech_Recognition_Hindi.py`.
 4. The application interface appears on the screen.<img width="900" alt="Interface" src="https://user-images.githubusercontent.com/75435809/163868033-d27fc6b4-caa5-488e-ac8f-2a14f7fdadb3.png">
